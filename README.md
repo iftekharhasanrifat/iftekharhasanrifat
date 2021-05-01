@@ -41,4 +41,4 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharhasanrifat"/>
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=iftekharhasanrifat&card_width=550&show_icons=true&theme=radical)](https://github.com/iftekharhasanrifat)
